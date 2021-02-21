@@ -1,13 +1,12 @@
 body {
-	background-image: url("background.jpg");
+	background-color: #03254c;
 	
 }
 
 h1 {
 	text-align: center;
-	color: black;
+	color: white;
 	font-style: italic;
-	font-weight: bold;
 }
 
 /* Adapted from w3schools */
@@ -33,7 +32,7 @@ a {
 }
 
 a:hover {
-  background-color: skyblue;
+  background-color: black;
 }
 
 img {
@@ -48,7 +47,7 @@ img {
 	text-indent: 50px;
 	margin-left: 100px;
     margin-right: 100px;
-	border-color: navy;
+	border-color: white;
 	border-style: solid;
 	margin-top: 20px;
 	margin-bottom: 70px;
@@ -57,17 +56,17 @@ img {
 
 p {
 	font-style: italic;
-	font-size: 14pt;
-	color: black;
+	font-size: 16pt;
+	color: white;
 	text-align: center;
 	
 }
 
 h2 {
 	float: left;
-	color: black;
+	color: white;
 	font-style: italic;
-	font-size: 14pt;
+	font-size: 16pt;
 	text-decoration: underline;
 	
 }
@@ -115,11 +114,12 @@ table, th {
 .desc {
   padding: 20px;
   text-align: center;
+  color: white;
 }
 
 h3 {
 	float: left;
-	color: black;
+	color: white;
 	font-style: italic;
 	font-size: 14pt;
 	text-decoration: underline;
@@ -180,6 +180,11 @@ h3 {
 	margin-left: 70px;
     
 }
+
+
+
+
+
 
 
 
