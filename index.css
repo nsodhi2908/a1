@@ -17,14 +17,14 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: navy;
 }
 
 
 a {
   float: left;
   display: block;
-  color: blue;
+  color: F0F8FF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
