@@ -27,7 +27,7 @@ a {
   color: #dfe3ee;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
