@@ -96,14 +96,10 @@ table, th {
 
 .gallery {
   margin: 20px;
-  border: 1px solid #ccc;
+  border: 1px solid white;
   float: left;
   width: 250px;
   
-}
-
-.gallery:hover {
-  border: 1px solid #777;
 }
 
 .gallery img {
@@ -180,6 +176,11 @@ h3 {
 	margin-left: 70px;
     
 }
+
+
+
+
+
 
 
 
